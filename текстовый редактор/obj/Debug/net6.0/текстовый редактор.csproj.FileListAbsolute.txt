@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\текстовый редактор\текстовый редактор\obj\Debug\net6.0\текстовый редактор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\текстовый редактор\текстовый редактор\obj\Debug\net6.0\текстовый редактор.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\текстовый редактор\текстовый редактор\obj\Debug\net6.0\текстовый редактор.AssemblyInfo.cs
+C:\Users\User\source\repos\текстовый редактор\текстовый редактор\obj\Debug\net6.0\текстовый редактор.csproj.CoreCompileInputs.cache
